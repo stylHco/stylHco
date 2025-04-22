@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stylianos Hadjiconstantinou</h1>
-<h3 align="center">A third-year student pursuing a degree in Computing at UCLan Cyprus. 🎓</h3>
+<h3 align="center">🎓 BSc (Hons) Computing Graduate | Software Developer</h3>
 
-- ⚡ Fun fact **When I'm not coding, you'll likely find me solving Rubik's Cubes or playing the piano 🎹.**
+- ⚡ Fun fact **Outside of coding, I enjoy solving Rubik's Cubes, playing the piano 🎹, and exploring ethical hacking and cybersecurity topics.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
